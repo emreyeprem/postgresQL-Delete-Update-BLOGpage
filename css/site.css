@@ -1,0 +1,8 @@
+label{
+  display:block;
+}
+textarea{
+  display:block;
+  width: 90%;
+  height: 40%;
+}
