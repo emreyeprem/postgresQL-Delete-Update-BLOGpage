@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 label {display:block;}
 textarea {
 display:block;
@@ -32,4 +33,13 @@ footer{
   list-style: none;
   margin-bottom: 2%;
   margin-left: 90% !important;
+
+label{
+  display:block;
+}
+textarea{
+  display:block;
+  width: 90%;
+  height: 40%;
+
 }
